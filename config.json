@@ -1,0 +1,11 @@
+{
+ "Lang": "es",
+ "Fullscreen": true,
+ "Screen": {
+  "Left": 0,
+  "Top": 0,
+  "Right": 1920,
+  "Bottom": 1080
+ },
+ "TPS": 60
+}
